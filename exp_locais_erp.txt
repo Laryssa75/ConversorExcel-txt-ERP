@@ -1,0 +1,216 @@
+   11        ACADEMIA DO CORPO                 0ACADEMIA DO CORPO                                                               S    1AA
+   110       ASS. INTER - PR. REITORIA         0ASSESSORIA INTERNACIONAL - PREDIO DA REITORIA                                   S    1AA
+   1100      GAB. BIOPRATICAS                  0GABINETE BIOPRATICAS                                                            S    1AA
+   1101      GAB. COORDENADOR INOTEC           0GABINETE COORDENADOR - PREDIO INOTEC                                            S    1AA
+   1102      GASTRONOMIA                       0GASTRONOMIA                                                                     S    1AA
+   1103      GEOLOGIA                          0GEOLOGIA                                                                        S    1AA
+   1104      GERÊNCIA DE SUPRIMENTOS           0GERÊNCIA DE SUPRIMENTOS                                                         S    1AA
+   1105      GESTÃO DE PROVAS CEAD             0GESTÃO DE PROVAS - PREDIO EAD/MESTRADO CEAD                                     S    1AA
+   1106      GESTÃO PORTUARIA                  0GESTÃO PORTUARIA                                                                S    1AA
+   1107      HIGHLINE                          0HIGHLINE                                                                        S    1AA
+   1108      HOSPITAL VETERINÁRIO              0HOSPITAL VETERINÁRIO                                                            S    1AA
+   1109      INTERNAÇÃO H. VETERINARIO         0INTERNAÇÃO - HOSPITAL VETERINARIO                                               S    1AA
+   111       ASSESSORIA JURIDICA               0ASSESSORIA JURIDICA                                                             S    1AA
+   1110      JORNALISMO                        0JORNALISMO                                                                      S    1AA
+   1111      LAB. COMUNICAÇÃO                  0LABORATORIO COMUNICAÇÃO                                                         S    1AA
+   1112      LAB. CONFORTO P.BIOMEDICA         0LABORATORIO DE CONFORTO - PREDIO BIOMÉDICAS                                     S    1AA
+   1113      LAB. E.MEC.LAB. NUCLEO TE         0LABORATÓRIO DE ENSAIOS MECÂNICOS - LAB. E NUCLEOS DE TECNOLOGIA                 S    1AA
+   1114      LAB. FÍSICA. P.BIOMÉDICAS         0LABORATORIO DE FÍSICA - PREDIO BIOMÉDICAS                                       S    1AA
+   1115      LAB. INF.04 NUCLEO TEC            0LABORATÓRIO DE INFORMÁTICA 04 - LAB. E NUCLEOS DE TECNOLOGIA                    S    1AA
+   1116      LAB. INFOR. 10 P.TEC.             0LABORATÓRIO DE INFORMÁTICA 10 - PREDIO TECNOLOGICAS                             S    1AA
+   1117      LAB. INFOR. 11 P. TEC.            0LABORATÓRIO DE INFORMÁTICA 11 - PRÉDIO TECNOLOGICAS                             S    1AA
+   1118      LAB. INFOR. 12 P. TEC.            0LABORATÓRIO DE INFORMÁTICA 12 - PRÉDIO TECNOLOGICAS                             S    1AA
+   1119      LAB. INFOR. 13 P. BIO.            0LABORATÓRIO DE INFORMÁTICA 13 - PREDIO BIOMEDICAS                               S    1AA
+   112       ASS. DA COOR. DE DIREITO          0ASSISTENTE DA COORDENAÇÃO DE DIREITO                                            S    1AA
+   1120      LAB. MAQ.LAB. NUCLEO TEC.         0LABORATÓRIO DE MAQUETE - LABORATORIOS E NUCLEOS DE TECNOLOGIA                   S    1AA
+   1121      LAB. MAT.LAB. NUCLEO TEC.         0LABORATÓRIO DE MATERIAIS - LABORATORIOS E NUCLEOS DE TECNOLOGIA                 S    1AA
+   1122      LAB. METAL/MICRO/ÓPTICO           0LAB. DE METALOGRAFIA E MICROSCOPIA ÓPTICA - LAB. E NUCLEOS DE TECNOLOGIA        S    1AA
+   1123      LAB. PARASITOLOGIA/MICRO.         0LABORATÓRIO DE PARASITOLOGIA E MICROBIOLOGIA - LABORATORIOS BIO PRATICAS        S    1AA
+   1124      LAB. PESQUISA C. PSICO.           0LABORATÓRIO DE PESQUISA - CLÍNICA DE PSICOLOGIA                                 S    1AA
+   1125      LAB. PRATICAS MAN. P. BIO         0LABORATÓRIO DE PRATICAS MANUAIS - PREDIO BIOMEDICAS                             S    1AA
+   1126      LAB. FOTOGRAFIA N. TEC.           0LABORATORIO FOTOGRAFIA - LABORATORIOS E NUCLEOS DE TECNOLOGIA                   S    1AA
+   1127      LAB. REALIDADE VIRT.N.TEC         0LABORATORIO REALIDADE VIRTUAL - LABORATORIOS E NUCLEOS DE TECNOLOGIA            S    1AA
+   1128      LAB. BIOPRATICAS                  0LABORATORIOS BIOPRATICAS                                                        S    1AA
+   1129      LAB. DE INF. N. TEC               0LABORATÓRIOS DE INFORMÁTICA - LABORATORIOS E NUCLEOS DE TECNOLOGIA              S    1AA
+   113       AUDITORIO - HOSPITAL VET.         0AUDITORIO - HOSPITAL VETERINARIO                                                S    1AA
+   1130      LAB. NUCLEOS TECNOLOGIA           0LABORATORIOS E NUCLEOS DE TECNOLOGIA                                            S    1AA
+   1131      LUDOTERAPIA C. PSICOLOGIA         0LUDOTERAPIA - CLÍNICA DE PSICOLOGIA                                             S    1AA
+   1132      MEDIC. VETERINÁRIA                0MEDIC. VETERINÁRIA                                                              S    1AA
+   1133      MEDICINA                          0MEDICINA                                                                        S    1AA
+   1134      MEST/DOUT C.FARMACÊUTICAS         0MEST/DOUT C.FARMACÊUTICAS                                                       S    1AA
+   1135      MEST.ARQUITETURA E CIDADE         0MEST.ARQUITETURA E CIDADE                                                       S    1AA
+   1136      MEST.SOCIOLOGIA POLITICA          0MESTRADO EM SOCIOLOGIA POLITICA                                                 S    1AA
+   1137      MEST. SEGURANÇA PÚBLICA           0MESTRADO SEGURANÇA PÚBLICA                                                      S    1AA
+   1138      MULTIFUNCIONAL C. PSICO           0MULTIFUNCIONAL - CLÍNICA DE PSICOLOGIA                                          S    1AA
+   1139      NACE - C. PSICOLOGIA              0NACE - CLÍNICA DE PSICOLOGIA                                                    S    1AA
+   114       AUDITORIO - POLICLINICA           0AUDITORIO - POLICLINICA                                                         S    1AA
+   1140      NEAD NÚCLEO ED. DISTANCIA         0NEAD - NÚCLEO DE EDUCAÇÃO A DISTANCIA                                           S    1AA
+   1141      NEPS P. EAD/MESTRADO CEAD         0NEPS - PREDIO EAD/MESTRADO CEAD                                                 S    1AA
+   1142      N.EVENTOS REIT/VICE REIT.         0NÚCLEO DE EVENTOS - REITORIA E VICE REITORIA                                    S    1AA
+   1143      NUIDE D.PLANEJ. GRADUAÇÃO         0NUIDE - DIRETORIA DE PLANEJAMENTO DO ENSINO DE GRADUAÇÃO                        S    1AA
+   1144      NUPRAJUR - DIREITO                0NUPRAJUR - DIREITO                                                              S    1AA
+   1145      NUTRIÇÃO                          0NUTRIÇÃO                                                                        S    1AA
+   1146      ODONTOLOGIA                       0ODONTOLOGIA                                                                     S    1AA
+   1147      OFIC. MODELOS LAB. N. TEC         0OFICINA DE MODELOS - LABORATORIOS E NUCLEOS DE TECNOLOGIA                       S    1AA
+   1148      OFIC. TÉC.CONSTRUTIVAS            0OFICINA DE TÉCNICAS CONSTRUTIVAS - LABORATORIOS E NUCLEOS DE TECNOLOGIA         S    1AA
+   1149      ONCOLOGIA H. VETERINARIO          0ONCOLOGIA - HOSPITAL VETERINARIO                                                S    1AA
+   115       BIBLIOTECA                        0BIBLIOTECA                                                                      S    1AA
+   1150      ÓPTICA E OPTOMETRIA               0ÓPTICA E OPTOMETRIA                                                             S    1AA
+   1151      ORIENT. MONOGR. G.HUMANAS         0ORIENTAÇÃO DE MONOGRAFIA - GRADUAÇÃO HUMANAS                                    S    1AA
+   1152      OSI SETOR SEG.PATRIMONIAL         0OSI - SETOR DE SEGURANÇA PATRIMONIAL                                            S    1AA
+   1153      PEDAGOGIA                         0PEDAGOGIA                                                                       S    1AA
+   1154      POLICLÍNICAS                      0POLICLÍNICAS                                                                    S    1AA
+   1155      POLO EAD GUARAPARI                0POLO EAD GUARAPARI                                                              S    1AA
+   1156      POLO LINHARES                     0POLO LINHARES                                                                   S    1AA
+   1157      PÓS EAD/MESTRADO CEAD             0PÓS EAD - PREDIO EAD/MESTRADO CEAD                                              S    1AA
+   1158      PRAIA DA COSTA ED UNIQUE          0PRAIA DA COSTA ED UNIQUE                                                        S    1AA
+   1159      PREDIO INOTEC                     0PREDIO INOTEC                                                                   S    1AA
+   116       BIOMEDICINA                       0BIOMEDICINA                                                                     S    1AA
+   1160      PRESIDÊNCIA                       0PRESIDÊNCIA                                                                     S    1AA
+   1161      PRO REITOR EAD/MEST.CEAD          0PRO REITOR - PRÉDIO EAD/MESTRADO CEAD                                           S    1AA
+   1162      PRO REITORIA ACADÊMICA            0PRO REITORIA ACADÊMICA                                                          S    1AA
+   1163      PRO REIT. ACADEMICA P.TEC         0PRO REITORIA ACADEMICAS - PREDIO TECNOLOGICAS                                   S    1AA
+   1164      PRO REIT. PLANEJ E ADM            0PRO REITORIA DE PLANEJAMENTO E ADMINSITRAÇÃO.                                   S    1AA
+   1165      PR.POS GRAD/PESQ/EXTENSÃO         0PRO REITORIA DE POS GRADUAÇÃO,PESQUISA E EXTENSÃO                               S    1AA
+   1166      PROD.CONT. EAD/MEST. CEAD         0PRODUÇÃO DE CONTEUDO - PRÉDIO EAD/MESTRADO CEAD                                 S    1AA
+   1167      PROJETOS CORPORATIVOS             0PROJETOS CORPORATIVOS                                                           S    1AA
+   1168      PRÓ-REITORIA                      0PRÓ-REITORIA                                                                    S    1AA
+   1169      PSICOLOGIA                        0PSICOLOGIA                                                                      S    1AA
+   117       CASA DE VIDRO                     0CASA DE VIDRO                                                                   S    1AA
+   1170      RADIO CIDADE                      0RADIO CIDADE                                                                    S    1AA
+   1171      RECEP.CLÍN. DE PSICOLOGIA         0RECEPÇÃO - CLÍNICA DE PSICOLOGIA                                                S    1AA
+   1172      RECEP. HOSP. VETERINARIO          0RECEPÇÃO - HOSPITAL VETERINARIO                                                 S    1AA
+   1173      RECEP. PREDIO DA REITORIA         0RECEPÇÃO - PREDIO DA REITORIA                                                   S    1AA
+   1174      REITORIA E VICE REITORIA          0REITORIA E VICE REITORIA                                                        S    1AA
+   1175      RELAÇÕES INTERNACIONAIS           0RELAÇÕES INTERNACIONAIS                                                         S    1AA
+   1176      RELAÇÕES TRABA.P.REITORIA         0RELAÇÕES TRABALHISTAS - PREDIO REITORIA                                         S    1AA
+   1177      RESIDÊNCIA EM MEDICINA            0RESIDÊNCIA EM MEDICINA                                                          S    1AA
+   1178      R.MEDICA/GINEC/OBSTETRICI         0RESIDENCIA MEDICA EM GINECOLOGIA E OBSTETRICIA                                  S    1AA
+   1179      S.CIENTISTA HOSP. VET.            0SALA CIENTISTA - HOSPITAL VETERINARIO                                           S    1AA
+   118       C. CIRURGICO - HOSP.VET.          0CENTRO CIRURGICO - HOSPITAL VETERINARIO                                         S    1AA
+   1180      S.ATENDI ALUNO P. BIO.            0SALA DE ATENDIMENTO ALUNO - PREDIO BIOMÉDICAS                                   S    1AA
+   1181      S.GRAV. EAD/MESTRADO CEAD         0SALA DE GRAVAÇÃO - PRÉDIO EAD/MESTRADO CEAD                                     S    1AA
+   1182      S.PROF. TEMPO INTEGRAL            0SALA DE PROFESSOR EM TEMPO INTEGRAL                                             S    1AA
+   1183      S.REUNIÃO P. DA REITORIA          0SALA DE REUNIÃO - PREDIO DA REITORIA                                            S    1AA
+   1184      S.R. EAD/MESTRADO CEAD            0SALA DE REUNIÃO - PRÉDIO EAD/MESTRADO CEAD                                      S    1AA
+   1185      S.REUNIÃO P. TECNOLOGICO          0SALA DE REUNIÃO - PREDIO TECNOLOGICO                                            S    1AA
+   1186      S.VACINA/P.ENFERM. H.VET          0SALA DE VACINA/POSTO DE ENFERMAGEM - HOSPITAL VETERINARIO                       S    1AA
+   1187      SALA DOS PROFESSORES              0SALA DOS PROFESSORES                                                            S    1AA
+   1188      S.PROF. - H.VETERINARIO           0SALA DOS PROFESSORES - HOSPITAL VETERINARIO                                     S    1AA
+   1189      S.PROF. - BIOMÉDICAS              0SALA DOS PROFESSORES - PREDIO BIOMÉDICAS                                        S    1AA
+   119       CIÊNCIA DA COMPUTAÇÃO             0CIÊNCIA DA COMPUTAÇÃO                                                           S    1AA
+   1190      S. PREDIO BIOMÉDICAS              0SALAS - PREDIO BIOMÉDICAS                                                       S    1AA
+   1191      S. P. EAD/MESTRADO CEAD           0SALAS - PRÉDIO EAD/MESTRADO CEAD                                                S    1AA
+   1192      S. PREDIO INOTEC                  0SALAS - PREDIO INOTEC                                                           S    1AA
+   1193      S. PREDIO HUMANAS                 0SALAS PREDIO HUMANAS                                                            S    1AA
+   1194      S. PREDIO TECNOLOGICO             0SALAS PREDIO TECNOLOGICO                                                        S    1AA
+   1195      SEC. EAD/MESTRADO CEAD            0SECRETARIA - PRÉDIO  EAD/MESTRADO CEAD                                          S    1AA
+   1196      SEC. GRADUAÇÃO H.VET              0SECRETARIA GRADUAÇÃO - HOSPITAL VETERINARIO                                     S    1AA
+   1197      SEC. P.GRAD./MBA INOTEC           0SECRETARIA PÓS GRADUAÇÃO/ MBA - PREDIO INOTEC                                   S    1AA
+   1198      SEDES                             0SEDES                                                                           S    1AA
+   1199      SEDES/ADMINISTRATIVO              0SEDES/ADMINISTRATIVO                                                            S    1AA
+   12        ADM MANTENEDORA                   0ADMINISTRATIVO MANTENEDORA                                                      S    1AA
+   120       CIÊNCIAS BIOLÓGICAS               0CIÊNCIAS BIOLÓGICAS                                                             S    1AA
+   1200      SESMT                             0SESMT                                                                           S    1AA
+   1201      SETOR DE APOIO                    0SETOR DE APOIO                                                                  S    1AA
+   1202      SETOR CONS. E LIMPEZA             0SETOR DE CONSERVAÇÃO E LIMPEZA                                                  S    1AA
+   1203      SETOR SEG. PATRIMONIAL            0SETOR DE SEGURANÇA PATRIMONIAL                                                  S    1AA
+   1204      SETOR DE TRANSPORTES              0SETOR DE TRANSPORTES                                                            S    1AA
+   1205      SISTEMA DE INFORMÇÃO              0SISTEMA DE INFORMÇÃO                                                            S    1AA
+   1206      S.TEC. EAD/MESTRADO CEAD          0SUPORTE TECNICO - PRÉDIO EAD/MESTRADO CEAD                                      S    1AA
+   1207      TUTORIA - POLICLINICA             0TUTORIA - POLICLINICA                                                           S    1AA
+   1208      TUTORIA EAD/MESTRADO CEAD         0TUTORIA - PRÉDIO EAD/MESTRADO CEAD                                              S    1AA
+   1209      ULTRASSONOGRAFIA H. VET.          0ULTRASSONOGRAFIA - HOSPITAL VETERINARIO                                         S    1AA
+   121       CIÊNCIAS CONTÁBEIS                0CIÊNCIAS CONTÁBEIS                                                              S    1AA
+   1210      UTI - VETERINARIA                 0UTI - VETERINARIA                                                               S    1AA
+   1211      UVV MAKER LAB NUCLEO TEC          0UVV MAKER - LABORATORIOS E NUCLEO DE TECNOLOGIA                                 S    1AA
+   122       CINETEATRO - PREDIO TEC.          0CINETEATRO - PREDIO TECNOLOGICO                                                 S    1AA
+   123       CLÍNICA DE PSICOLOGIA             0CLÍNICA DE PSICOLOGIA                                                           S    1AA
+   124       CLINICA FISIOTERAPIA              0CLINICA FISIOTERAPIA                                                            S    1AA
+   125       COMISSÃO PROC. SELETIVO           0COMISSÃO DE PROCESSO SELETIVO                                                   S    1AA
+   126       COMUNICAÇÃO INSTITUCIONAL         0COMUNICAÇÃO INSTITUCIONAL                                                       S    1AA
+   127       COMUNICAÇÃO MERCADOLÓGICA         0COMUNICAÇÃO MERCADOLÓGICA                                                       S    1AA
+   128       C. SOCIAL/PUBL./PROPAG.           0COMUNICAÇÃO SOCIAL/PUBLICIDADE E PROPAGANDA                                     S    1AA
+   129       CONS. CLÍNICA PSICOLOGIA          0CONSULTÓRIO - CLÍNICA DE PSICOLOGIA                                             S    1AA
+   13        ALMOXARIFADOS                     0ALMOXARIFADOS                                                                   S    1AA
+   130       CONS. - HOSP. VETERINARIO         0CONSULTÓRIO - HOSPITAL VETERINARIO                                              S    1AA
+   131       CONS. CIR. H. VETERINARIO         0CONSULTÓRIO CIRURGIA - HOSPITAL VETERINARIO                                     S    1AA
+   132       CONS. ONCOLOGIA - H.VET.          0CONSULTÓRIO ONCOLOGIA - HOSPITAL VETERINARIO                                    S    1AA
+   133       CONS.GR.2 C. PSICOLOGIA           0CONSULTÓRIO/GRUPO 2 - CLÍNICA DE PSICOLOGIA                                     S    1AA
+   134       CONVÊNIO CURSO MEDICINA           0CONVÊNIO CURSO MEDICINA                                                         S    1AA
+   135       CONV. PETR. - ARACRUZ             0CONVÊNIO PETROBRAS - ARACRUZ                                                    S    1AA
+   136       CONV. PETR. - C.DA BARRA          0CONVÊNIO PETROBRAS - CONCEIÇÃO DA BARRA                                         S    1AA
+   137       CONV. PETR. - LINHARES            0CONVÊNIO PETROBRAS - LINHARES                                                   S    1AA
+   138       CONV. PETR. - SÃO MATEUS          0CONVÊNIO PETROBRAS - SÃO MATEUS                                                 S    1AA
+   139       CONV. PETR. - SERRA               0CONVÊNIO PETROBRAS - SERRA                                                      S    1AA
+   14        ANFITEATRO                        0ANFITEATRO                                                                      S    1AA
+   140       CONV. PETR. VV BOA VISTA          0CONVÊNIO PETROBRAS - VILA VELHA - BOA VISTA                                     S    1AA
+   141       CONV. PETR. P. DA COSTA           0CONVÊNIO PETROBRAS - VILA VELHA - PRAIA DA COSTA                                S    1AA
+   142       COOR. CLÍNICA PSICOLOGIA          0COORDENAÇÃO - CLÍNICA DE PSICOLOGIA                                             S    1AA
+   143       COOR. EDUCAÇÃO FISICA             0COORDENAÇÃO - EDUCAÇÃO FISICA                                                   S    1AA
+   144       COOR. EXPANSÃO MEDICINA           0COORDENAÇÃO - EXPANSÃO DA MEDICINA                                              S    1AA
+   145       COOR. GRADUAÇÃO HOSP.VET          0COORDENAÇÃO - GRADUAÇÃO - HOSPITAL VETERINARIO                                  S    1AA
+   146       COOR. HOSP. VETERINARIO           0COORDENAÇÃO - HOSPITAL VETERINARIO                                              S    1AA
+   147       COOR. HUMANAS E SOCIAIS           0COORDENAÇÃO - HUMANAS E SOCIAIS                                                 S    1AA
+   148       COOR. MESTRADO HOSP. VET          0COORDENAÇÃO - MESTRADO - HOSPITAL VETERINARIO                                   S    1AA
+   149       COOR. PEDAGOGICA                  0COORDENAÇÃO - PEDAGOGICA                                                        S    1AA
+   15        AP. FINAN. - PR. REITORIA         0AP. FINAN. - PR. REITORIA 0 APOIO FINANCEIRO - PREDIO DA REITORIA               S    1AA
+   150       COOR. PEDAGOGICA P. CEAD          0COORDENAÇÃO - PEDAGOGICA - PREDIO EAD/MESTRADO CEAD                             S    1AA
+   151       COOR. RELAÇÕES INTER              0COORDENAÇÃO - RELAÇÕES INTERNACIONAIS                                           S    1AA
+   152       COOR. RESIDÊNCIA - HOSP.V         0COORDENAÇÃO - RESIDÊNCIA - HOSPITAL VETERINARIO                                 S    1AA
+   153       COOR. TECNOLOGICO                 0COORDENAÇÃO - TECNOLOGICO                                                       S    1AA
+   154       COORDENAÇÃO DE CURSO              0COORDENAÇÃO DE CURSO                                                            S    1AA
+   155       COPA - HOSP. VETERINARIO          0COPA - HOSPITAL VETERINARIO                                                     S    1AA
+   156       COPA P. EAD/MESTRADO CEAD         0COPA - PREDIO EAD/MESTRADO CEAD                                                 S    1AA
+   157       COPA - PREDIO INOTEC              0COPA - PREDIO INOTEC                                                            S    1AA
+   158       CORREDOR 1 PAVIMENTO              0CORREDOR 1 PAVIMENTO                                                            S    1AA
+   159       CORREDOR 2 PAVIMENTO              0CORREDOR 2 PAVIMENTO                                                            S    1AA
+   16        AREA DE HUMANAS SOCIAIS           0AREA DE HUMANAS SOCIAIS                                                         S    1AA
+   160       CORREDOR 3 PAVIMENTO              0CORREDOR 3 PAVIMENTO                                                            S    1AA
+   161       CRA - PREDIO INOTEC               0CRA - PREDIO INOTEC                                                             S    1AA
+   162       DEP. DE MAN.ESTRUTURAL            0DEPARTAMENTO DE MANUTENÇÃO-ESTRUTURAL                                           S    1AA
+   163       DEP. DE REFORMAS ENG.             0DEPARTAMENTO DE REFORMAS - ENGENHARIA                                           S    1AA
+   164       DEPÓSITO - HOSP.VET.              0DEPÓSITO - HOSPITAL VETERINARIO                                                 S    1AA
+   165       DEPTO. DE MANUTENÇÃO              0DEPTO. DE MANUTENÇÃO                                                            S    1AA
+   166       DESIGN DE MODA                    0DESIGN DE MODA                                                                  S    1AA
+   167       DESIGN DE PRODUTOS                0DESIGN DE PRODUTOS                                                              S    1AA
+   168       DIREITO                           0DIREITO                                                                         S    1AA
+   169       DIRETORIA ADM. E FINAN.           0DIRETORIA ADMINISTRATIVA E FINANCEIRA                                           S    1AA
+   17        ARQUITETURA E URBANISMO           0ARQUITETURA E URBANISMO                                                         S    1AA
+   170       DIRETORIA DE MAKETING             0DIRETORIA DE MAKETING                                                           S    1AA
+   171       DIR. PÓS GRAD. LATO SENSU         0DIRETORIA DE PÓS GRADUAÇÃO LATO SENSU                                           S    1AA
+   172       DIR. RECURSOS HUMANOS             0DIRETORIA DE RECURSOS HUMANOS                                                   S    1AA
+   173       DIR. RELAC. COM CLIENTE           0DIRETORIA DE RELACIONAMENTO COM O CLIENTE                                       S    1AA
+   174       DIR. ENGENHARIA E OBRAS           0DIRETORIA ENGENHARIA E OBRAS                                                    S    1AA
+   175       DIR. FINAN. UNIVERSIDADE          0DIRETORIA FINANCEIRA UNIVERSIDADE                                               S    1AA
+   176       DIRETORIA SEQUENCIAIS             0DIRETORIA SEQUENCIAIS                                                           S    1AA
+   177       DIV. INFRA. MANUT.LOGIS           0DIVISÃO INFRAESTRUTURA, MANUTENÇÃO E LOGISTICA                                  S    1AA
+   178       DIV. REGISTRO ACADÊMICO           0DIVISÃO REGISTRO ACADÊMICO                                                      S    1AA
+   179       DTI-DIV.TEC.INFORMAÇÃO            0DTI-DIVISÃO DE TECNOLOGIA DA INFORMAÇÃO                                         S    1AA
+   18        ARQ.CLÍNICA DE PSICOLOGIA         0ARQUIVO - CLÍNICA DE PSICOLOGIA                                                 S    1AA
+   180       ECOFAZENDA EXPERIMENTAL           0ECOFAZENDA EXPERIMENTAL                                                         S    1AA
+   181       EDUCAÇÃO FÍSICA                   0EDUCAÇÃO FÍSICA                                                                 S    1AA
+   182       EJUVV - EMPRESA JUNIOR            0EJUVV - EMPRESA JUNIOR                                                          S    1AA
+   183       ELETROCARDIOGRAMA H. VET          0ELETROCARDIOGRAMA - HOSPITAL VETERINARIO                                        S    1AA
+   184       ENFERMAGEM                        0ENFERMAGEM                                                                      S    1AA
+   185       ENGENHARIA DE PETRÓLEO            0ENGENHARIA DE PETRÓLEO                                                          S    1AA
+   186       ENGENHARIA DE PRODUÇÃO            0ENGENHARIA DE PRODUÇÃO                                                          S    1AA
+   187       ENGENHARIA ELÉTRICA               0ENGENHARIA ELÉTRICA                                                             S    1AA
+   188       ENGENHARIA MECANICA               0ENGENHARIA MECANICA                                                             S    1AA
+   189       ENGENHARIA QUIMICA                0ENGENHARIA QUIMICA                                                              S    1AA
+   19        ASSESSORIA CONTÁBIL               0ASSESSORIA CONTÁBIL                                                             S    1AA
+   190       ESTÁGIOS E CONVÊNIOS              0ESTÁGIOS E CONVÊNIOS                                                            S    1AA
+   191       ESTERELIZAÇÃO H. VET.             0ESTERELIZAÇÃO - HOSPITAL VETERINARIO                                            S    1AA
+   192       ESTÉTICA E COSMETOLOGIA           0ESTÉTICA E COSMETOLOGIA                                                         S    1AA
+   193       ESTUDIO TV                        0ESTUDIO TV                                                                      S    1AA
+   194       FARMÁCIA                          0FARMÁCIA                                                                        S    1AA
+   195       FARMACIA H. VETERINARIO           0FARMACIA - HOSPITAL VETERINARIO                                                 S    1AA
+   196       FISIOTERAPIA                      0FISIOTERAPIA                                                                    S    1AA
+   197       FONOAUDIOLOGIA                    0FONOAUDIOLOGIA                                                                  S    1AA
+   198       FOTOGRAFIA                        0FOTOGRAFIA                                                                      S    1AA
+   199       GAB. PREDIO DA REITORIA           0GABINETE - PREDIO DA REITORIA                                                   S    1AA
+   1        ACADEMIA DO CORPO                 0ACADEMIA DO CORPO                                                               S    1AA
+
+
+
+

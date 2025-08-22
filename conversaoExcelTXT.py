@@ -3,15 +3,15 @@ import pandas as pd
 
 #Layout: nome da coluna no Excel + largura + alinhamento + preenchimento
 layout = [
-    # {"col": "EMPRESA", "length": 4, "align": "left", "fill": " "},
-    {"col": "COD LOCAL", "length": 5, "align": "right", "fill": " "},
-    {"col": "NOME DO LOCAL", "length": 25, "align": "right", "fill": " "},
-    {"col": "RESPONSAVEL",  "length": 18, "align": "right", "fill": " "},
+    {"col": "EMPRESA", "length": 4, "align": "left", "fill": " "},
+    {"col": "COD LOCAL", "length": 9, "align": "left", "fill": " "},
+    {"col": "NOME DO LOCAL", "length": 25, "align": "left", "fill": " "},
+    {"col": "RESPONSAVEL",  "length": 10, "align": "left", "fill": " "},
     {"col": "DESCRICAO DO LOCAL",  "length": 80, "align": "left", "fill": " "},
-    {"col": "PERMITE EMPRESTIMO",  "length": 2, "align": "left", "fill": " "},
-    {"col": "FILIAL",  "length": 4, "align": "right", "fill": " "},
-    {"col": "APLICACAO",  "length": 1, "align": "left", "fill": " "},
-    {"col": "SITUACAO",  "length": 1, "align": "left", "fill": " "},
+    {"col": "PERMITE EMPRESTIMO",  "length": 1, "align": "right", "fill": " "},
+    {"col": "FILIAL",  "length": 1, "align": "left", "fill": " "},
+    {"col": "APLICACAO",  "length": 1, "align": "right", "fill": " "},
+    {"col": "SITUACAO",  "length": 1, "align": "right", "fill": " "},
 ]
 
 def format_field(value, length, align, fill):
