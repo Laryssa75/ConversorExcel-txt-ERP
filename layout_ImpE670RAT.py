@@ -1,13 +1,20 @@
 import pandas as pd
+import locale
+
+#Define o padrão brasileiro
+locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 
 #Layout: nome da coluna no Excel + largura + alinhamento + preenchimento
 layout = [
     {"col": "EMPRESA", "length": 4, "align": "right", "fill": " "},
     {"col": "CODIGO BEM", "length": 20, "align": "left", "fill": " "},
-    {"col": "DATA LOCALIZACAO", "length": 14, "align": "left", "fill": " "},
-    {"col": "SEQUENCIA",  "length": 5, "align": "left", "fill": " "}, 
-    {"col": "CODIGO LOCAL REAL",  "length": 9, "align": "left", "fill": " "},
+    {"col": "DATA MOVIMENTACAO", "length": 14, "align": "left", "fill": " "},
+    {"col": "SEQUENCIA MOV",  "length": 4, "align": "right", "fill": " "}, 
+    {"col": "SEQUENCIA RATEIO",  "length": 4, "align": "right", "fill": " "},
+    {"col": "COD C CUSTO",  "length": 9, "align": "left", "fill": " "}, 
+    {"col": "PERC RATEIO",  "length": 9, "align": "left", "fill": " "}, 
+    {"col": "VALOR",  "length": 21, "align": "left", "fill": " "},
 ]
 
 #lista de colunas que devem ser formatadas como data
@@ -23,10 +30,40 @@ def format_field(value, length, align, fill, col_name=None):
                 value = pd.to_datetime(value).strftime("%d/%m/%Y")
             except Exception:
                 value = str(value)  # fallback se não converter
+                
+        elif col_name == "PERC RATEIO":
+            try:
+                num = float(value)
+                
+                #outra forma de converter para o padrão de numero brasileiro (testar depois)
+                # value = locale.format_string("%.2f", num, grouping=True)
+                
+                #formata com 4 casas decimais fixas
+                formatted = f"{abs(num):.4f}" #sempre positivo nesse passo
+                
+                #separa parte inteira e decimal
+                inteiro, decimal = formatted.split(".")
+                
+                #garante 3 digitos na parte inteira (preenchendo com zeros à esquerda)
+                inteiro = inteiro.zfill(3)
+                
+                #remonta no formato brasileiro
+                value = f"{'-' if num < 0 else '' }{inteiro},{decimal}"
+                
+            except Exception:
+                value = str(value)
+            
+        elif col_name == "VALOR":
+            try:
+                num = float(value)
+                #formato 9.999.999.999,99
+                value = f"{num:,.2f}".replace(",", "X").replace(".", ',').replace("X", ".")
+            except Exception:
+                value = str(value)
     
-        else:
-            value = str(value)
-     
+    
+    value = str(value)
+             
     #Normaliza quebras de linhas e espaços extras
     value = value.replace("\r\n", " ").replace("\n", " ").replace("\r", " ")
     value = " ".join(value.split())
