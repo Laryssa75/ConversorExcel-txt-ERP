@@ -9,16 +9,17 @@ locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 layout = [
     {"col": "EMPRESA", "length": 4, "align": "right", "fill": " "},
     {"col": "CODIGO BEM", "length": 20, "align": "left", "fill": " "},
-    {"col": "DATA MOVIMENTACAO", "length": 14, "align": "left", "fill": " "},
+    {"col": "DATA MOVIMENTACAO", "length": 10, "align": "left", "fill": " "},
     {"col": "SEQUENCIA MOV",  "length": 4, "align": "right", "fill": " "}, 
     {"col": "SEQUENCIA RATEIO",  "length": 4, "align": "right", "fill": " "},
     {"col": "COD C CUSTO",  "length": 9, "align": "left", "fill": " "}, 
     {"col": "PERC RATEIO",  "length": 9, "align": "left", "fill": " "}, 
-    {"col": "VALOR",  "length": 21, "align": "left", "fill": " "},
+    {"col": "VALOR",  "length": 20, "align": "right", "fill": " "},
+    {"col": "COD ESPECIE BEM",  "length": 5, "align": "right", "fill": " "},
 ]
 
 #lista de colunas que devem ser formatadas como data
-date_columns = ["DATA LOCALIZACAO"]
+date_columns = ["DATA MOVIMENTACAO"]
 
 def format_field(value, length, align, fill, col_name=None):
     if pd.isna(value):
@@ -62,7 +63,7 @@ def format_field(value, length, align, fill, col_name=None):
                 value = str(value)
     
     
-    value = str(value)
+    value = str(value).strip()
              
     #Normaliza quebras de linhas e espaços extras
     value = value.replace("\r\n", " ").replace("\n", " ").replace("\r", " ")
@@ -84,7 +85,7 @@ def export_fixed_width(df, layout, output_file):
             f.write(line + "\n")
 
 # Exemplo: lendo do Excel
-df = pd.read_excel("E670LOCteste.xlsx")
+df = pd.read_excel("E670RATteste.xlsx")
 
 # Gera TXT novo no formato fixo
 export_fixed_width(df, layout, "testeE670LOC.txt")
