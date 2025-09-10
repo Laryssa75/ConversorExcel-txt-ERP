@@ -9,20 +9,14 @@ locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 layout = [
     {"col": "EMPRESA", "length": 4, "align": "right", "fill": " "},
     {"col": "CODIGO BEM", "length": 20, "align": "left", "fill": " "},
-    {"col": "DATA MOVIMENTACAO", "length": 10, "align": "left", "fill": " "},
-    {"col": "SEQUENCIA MOV",  "length": 4, "align": "right", "fill": " "}, 
-    {"col": "SEQUENCIA RATEIO",  "length": 4, "align": "right", "fill": " "},
+    {"col": "DATA LOC", "length": 10, "align": "left", "fill": " "},
+    {"col": "SEQ LOCALIZACAO",  "length": 5, "align": "right", "fill": " "},
     {"col": "COD C CUSTO",  "length": 9, "align": "left", "fill": " "}, 
     {"col": "PERC RATEIO",  "length": 9, "align": "left", "fill": " "}, 
-    {"col": "VALOR",  "length": 20, "align": "right", "fill": " "},
-    {"col": "COD ESPECIE BEM",  "length": 5, "align": "right", "fill": " "},
-    {"col": "DATA GERADO",  "length": 10, "align": "left", "fill": " "},
-    {"col": "COD TRANSACAO MOV",  "length": 5, "align": "left", "fill": " "},
-    {"col": "SEQ LOCALIZACAO",  "length": 5, "align": "right", "fill": " "},
 ]
 
 #lista de colunas que devem ser formatadas como data
-date_columns = ["DATA MOVIMENTACAO","DATA GERADO"]
+date_columns = ["DATA LOC"]
 
 def format_field(value, length, align, fill, col_name=None):
     if pd.isna(value):
@@ -56,14 +50,6 @@ def format_field(value, length, align, fill, col_name=None):
                 
             except Exception:
                 value = str(value)
-            
-        elif col_name == "VALOR":
-            try:
-                num = float(value)
-                #formato 9.999.999.999,99
-                value = f"{num:,.2f}".replace(",", "X").replace(".", ',').replace("X", ".")
-            except Exception:
-                value = str(value)
     
     
     value = str(value).strip()
@@ -88,7 +74,7 @@ def export_fixed_width(df, layout, output_file):
             f.write(line + "\n")
 
 # Exemplo: lendo do Excel
-df = pd.read_excel("E670RATteste.xlsx")
+df = pd.read_excel("E670DRAteste.xlsx")
 
 # Gera TXT novo no formato fixo
 export_fixed_width(df, layout, "testeE670LOC.txt")
